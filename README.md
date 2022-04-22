@@ -1,7 +1,7 @@
 Hi 👋 My name is Muhammed Ali Boztepe
 =====================================
 
-Junior Front-end Developer
+COMPUTER ENGINEER
 --------------------------
 
 Strong knowledge about Javascript and Python. I am a person who can think analytically and have problem solving skills. I want to improve my skills with Javascript based projects.
