@@ -1,10 +1,10 @@
 Hi 👋 My name is Muhammed Ali Boztepe
 =====================================
 
-COMPUTER ENGINEER
+FRONTEND DEVELOPER
 --------------------------
 
-Strong knowledge about Javascript and Python. I am a person who can think analytically and have problem solving skills. I want to improve my skills with Javascript based projects.
+Strong knowledge about Vue.js and Javascript. I am a person who can think analytically and have problem solving skills. I want to improve my skills with Vue.js and Javascript based projects.
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [aliboztepee1@gmail.com](mailto:aliboztepee1@gmail.com)
