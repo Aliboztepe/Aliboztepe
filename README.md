@@ -6,11 +6,6 @@ FRONTEND DEVELOPER
 
 Strong knowledge about Vue.js and Javascript. I am a person who can think analytically and have problem solving skills. I want to improve my skills with Vue.js and Javascript based projects.
 
-* 🌍  I'm based in Istanbul
-* ✉️  You can contact me at [aliboztepee1@gmail.com](mailto:aliboztepee1@gmail.com)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Projects that suit me
-
 # 💫 About Me:
 🔭 I’m currently working on Mobven<br>👯 I’m looking to collaborate on Vue based projects<br>🌱 I’m currently learning Vue<br>💬 Ask me about Frontend technologies at [aliboztepee1@gmail.com](mailto:aliboztepee1@gmail.com)<br>
 
