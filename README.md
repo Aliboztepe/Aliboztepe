@@ -7,7 +7,7 @@ FRONTEND DEVELOPER
 Strong knowledge about Vue.js and Javascript. I am a person who can think analytically and have problem solving skills. I want to improve my skills with Vue.js and Javascript based projects.
 
 # 💫 About Me:
-🔭 I’m currently working on Mobven<br>👯 I’m looking to collaborate on Vue based projects<br>🌱 I’m currently learning Vue<br>💬 Ask me about Frontend technologies at [aliboztepee1@gmail.com](mailto:aliboztepee1@gmail.com)<br>
+🔭 I’m currently working on Insider<br>👯 I’m looking to collaborate on Vue based projects<br>🌱 I’m currently learning Vue<br>💬 Ask me about Frontend technologies at [aliboztepee1@gmail.com](mailto:aliboztepee1@gmail.com)<br>
 
 
 ## 🌐 Socials:
