@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Muhammed Ali Boztepe 👋
 
-<!--
-**Aliboztepe/Aliboztepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## iOS Developer
 
-Here are some ideas to get you started:
+I build native iOS applications with Swift, focusing on clean architecture, testable code, and great user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- **Languages:** Swift, JavaScript
+- **iOS:** UIKit, SwiftUI, Combine, Auto Layout
+- **Architecture:** MVVM, VIPER, Protocol-Oriented Programming
+- **Testing:** XCTest, Unit Testing, Mock Objects
+- **Tools:** Xcode, Git, Jira, Figma
+
+### 📱 Featured Projects
+
+**[MovieHub](https://github.com/Aliboztepe/MovieHub)** — Film discovery app built with VIPER, Combine, Alamofire, and programmatic UI
+
+**[ShopApp](https://github.com/Aliboztepe/ShopApp)** — E-commerce app built with MVVM, async/await networking, and comprehensive unit testing
+
+### 📫 Contact
+- ✉️ aliboztepedev@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/aliboztepe)
